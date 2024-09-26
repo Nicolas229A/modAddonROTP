@@ -1,0 +1,10 @@
+{
+  "wilker_stand_summon_voiceline": {
+    "subtitle": "jojo.subtitle.stand_summon",
+    "sounds": [ "myrotpaddon:stand/ferrazEntrando" ]
+  },
+  "wilker_stand_unsummon_voiceline": {
+    "subtitle": "jojo.subtitle.stand_unsummon",
+    "sounds": [ "myrotpaddon:stand/ferrazSaindo" ]
+  }
+}

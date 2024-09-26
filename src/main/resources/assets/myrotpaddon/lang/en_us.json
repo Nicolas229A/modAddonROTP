@@ -1,0 +1,14 @@
+{
+  "entity.myrotpaddon.wilker_stand": "Wilker",
+  "stand.myrotpaddon.wilker_stand": "Wilker",
+  "action.myrotpaddon.wilker_stand_punch": "Socar Gostoso",
+  "action.myrotpaddon.wilker_stand_heavy_punch": "Socar Pesado (Ai que delícia)",
+  "action.myrotpaddon.wilker_stand_finisher_punch": "Soco Finalizador",
+  "action.myrotpaddon.wilker_stand_barrage": "Barreira de Socagem",
+  "action.myrotpaddon.wilker_stand_block": "Bloqueio",
+  "action.myrotpaddon.wilker_stand_throw_pickaxe": "Data Mining with Picascript",
+  "action.myrotpaddon.wilker_stand_ts": "THE WILKER!!",
+  "action.myrotpaddon.wilker_stand_time_resume": "Chega fih, cabou a graça",
+  "action.myrotpaddon.wilker_stand_ts_blink": "Dando tp no THE WILKER!!",
+  "entity.myrotpaddon.wilker_pickaxe": "Picascript"
+}
